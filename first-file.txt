@@ -2,3 +2,4 @@ Hello world!
 I'm adding some new text
 Test
 This is also a new line now
+Now I try it here directly in github
